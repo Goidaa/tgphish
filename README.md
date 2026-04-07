@@ -1,4 +1,3 @@
-```markdown
 ## Overview
 
 `tgphish` is a Python bot that automates the process of collecting Telegram session files, checking account status (premium, spam block, star balance), converting star gifts, and sending paid star messages to a target user. It uses both `pyTelegramBotAPI` (for the command interface) and `Telethon` (for interacting with user accounts after login).
